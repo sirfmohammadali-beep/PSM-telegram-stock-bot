@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+python-telegram-bot>=22,<23
+psycopg[binary]>=3.2,<4
